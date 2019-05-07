@@ -137,6 +137,8 @@ export default class Autolink extends PureComponent {
             return [`https://soundcloud.com/${username}`];
           case 'twitter':
             return [`twitter://user?screen_name=${username}`, `https://twitter.com/${username}`];
+          case 'screenhole':
+            return [`screenhole://user/${username}`, `https://screenhole.net/${username}`];
           default:
             return [match.getMatchedText()];
         }
