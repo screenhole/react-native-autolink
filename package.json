@@ -1,16 +1,16 @@
 {
   "name": "react-native-autolink",
-  "version": "1.8.0",
+  "version": "1.8.1",
   "description": "Autolinking component for React Native",
   "author": "Josh Swan <josh@disruptivelabs.io>",
   "main": "src/index.js",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/joshswan/react-native-autolink"
+    "url": "https://github.com/screenhole/react-native-autolink"
   },
   "bugs": {
-    "url": "https://github.com/joshswan/react-native-autolink/issues"
+    "url": "https://github.com/screenhole/react-native-autolink/issues"
   },
   "keywords": [
     "react native",
