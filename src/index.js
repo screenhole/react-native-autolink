@@ -330,6 +330,7 @@ Autolink.propTypes = {
     'instagram',
     'soundcloud',
     'twitter',
+    'screenhole',
   ]),
   numberOfLines: PropTypes.number,
   onPress: PropTypes.func,
